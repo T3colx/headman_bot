@@ -117,7 +117,7 @@ def professor_page(message):
     elif message.text == "↓ Прога / Информатика":
         dbworker.set_state(message.chat.id, config.States.S_PROFESSORS_PROGRAMMING.value)
         bot.send_message(message.chat.id, "Выберите препода.", reply_markup=professor_programming_panel)
-    elif message.text == "↓ Английский":
+    elif message.text == "Английский":
         bot.send_message(message.chat.id, "Пятницкий Алексей Николаевич\n"
                                           "E-mail: pyatnitskij_an@spbstu.ru")
     elif message.text == "Деканат":

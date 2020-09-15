@@ -1,4 +1,4 @@
-#!C:\Users\t3col\PycharmProjects\HeadMan_bot_git\venvb\Scripts\python.exe
+#!C:\Users\t3col\PycharmProjects\HeadMan_bot_git\venv\Scripts\python.exe
 # EASY-INSTALL-ENTRY-SCRIPT: 'setuptools==40.8.0','console_scripts','easy_install-3.8'
 __requires__ = 'setuptools==40.8.0'
 import re

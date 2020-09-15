@@ -1,0 +1,3 @@
+cython
+vedis
+pytelegrambotapi

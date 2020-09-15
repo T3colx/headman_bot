@@ -1,6 +1,6 @@
 from enum import Enum
 
-token = '1192994778:AAG7QhnCmFoWLP-RDbW_y3_JLpnamo_Txn4'
+token = ''
 
 g_drive = "https://drive.google.com/drive/folders/174z7BNpxIqgA8_I3UhevyjnZCIv8ezLZ?usp=sharing"
 
